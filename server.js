@@ -1,6 +1,6 @@
+const dotenv = require("dotenv");
 const path = require("path");
 const express = require("express");
-const dotenv = require("dotenv");
 const morgan = require("morgan");
 const colors = require("colors");
 const fileupload = require("express-fileupload");
